@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "fi"
+   },
+   "downloadButton": {
+      "message": "Lataa"
+   },
+   "downloadMessage": {
+      "message": "Lataa iCloud Windowsille, jotta voit käyttää iCloud-kirjanmerkkejä."
+   },
+   "enableBookmarksMessage": {
+      "message": "Ota Kirjanmerkit käyttöön Windowsin iCloudissa, jotta voit käyttää iCloud-kirjanmerkkejä Chromessa."
+   },
+   "extDescription": {
+      "message": "Pidä Chromen kirjanmerkit Windowsissa ajan tasalla Safarin kirjanmerkkien kanssa iPhonessa, iPadissa ja Macissa."
+   },
+   "extName": {
+      "message": "iCloud-kirjanmerkit"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Avaa iCloud Windowsille"
+   },
+   "signinMessage": {
+      "message": "Kirjaudu iCloudiin, jotta voit käyttää iCloud-kirjanmerkkejä."
+   },
+   "syncedMessage": {
+      "message": "Chrome-kirjanmerkkisi on synkronoitu iCloudin kanssa."
+   },
+   "unsupportedOS": {
+      "message": "Laajennus, jota yrität asentaa, on suunniteltu Windowsille. Jos käytät Macia, Safari-kirjanmerkkisi synkronoidaan automaattisesti iPhonen, iPadin ja Macin välillä, kun kirjaudut iCloudiin kaikilla laitteillasi."
+   }
+}

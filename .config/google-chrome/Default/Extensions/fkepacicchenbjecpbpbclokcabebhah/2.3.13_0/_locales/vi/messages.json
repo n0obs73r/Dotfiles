@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "vi"
+   },
+   "downloadButton": {
+      "message": "Tải về"
+   },
+   "downloadMessage": {
+      "message": "Tải về iCloud cho Windows để sử dụng Dấu trang iCloud."
+   },
+   "enableBookmarksMessage": {
+      "message": "Bật Dấu trang trong iCloud cho Windows để sử dụng Dấu trang iCloud với Chrome."
+   },
+   "extDescription": {
+      "message": "Giữ cho dấu trang Chrome của bạn trên Windows luôn cập nhật với dấu trang Safari trên iPhone, iPad và máy Mac của bạn."
+   },
+   "extName": {
+      "message": "Dấu trang iCloud"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Mở iCloud cho Windows"
+   },
+   "signinMessage": {
+      "message": "Đăng nhập vào iCloud để sử dụng Dấu trang iCloud."
+   },
+   "syncedMessage": {
+      "message": "Dấu trang Chrome của bạn được đồng bộ hóa với iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Phần mở rộng mà bạn đang cố gắng cài đặt được thiết kế để chạy trên Windows. Nếu bạn đang sử dụng máy Mac, dấu trang Safari của bạn sẽ tự động đồng bộ hóa với iPhone, iPad và máy Mac khi bạn đăng nhập vào iCloud trên tất cả các thiết bị của mình."
+   }
+}

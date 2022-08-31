@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "ru"
+   },
+   "downloadButton": {
+      "message": "Загрузить"
+   },
+   "downloadMessage": {
+      "message": "Загрузите iCloud для Windows, чтобы использовать Закладки iCloud."
+   },
+   "enableBookmarksMessage": {
+      "message": "Включите параметр «Закладки» в iCloud для Windows, чтобы использовать расширение «Закладки iCloud» в Chrome."
+   },
+   "extDescription": {
+      "message": "Синхронизируйте свои закладки Chrome в Windows с закладками Safari на Ваших iPhone, iPad и Mac."
+   },
+   "extName": {
+      "message": "Закладки iCloud"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Открыть iCloud для Windows"
+   },
+   "signinMessage": {
+      "message": "Чтобы использовать Закладки iCloud, выполните вход в iCloud."
+   },
+   "syncedMessage": {
+      "message": "Ваши закладки в Chrome синхронизированы с iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Расширение, которое Вы пытаетесь установить, предназначено для Windows 10. Если Вы используете Mac, Ваши закладки в Safari будут автоматически синхронизироваться с Вашими iPhone, iPad и Mac, на которых выполнен вход в iCloud."
+   }
+}

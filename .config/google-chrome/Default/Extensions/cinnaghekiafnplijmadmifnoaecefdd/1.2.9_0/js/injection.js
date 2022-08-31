@@ -1,0 +1,1 @@
+!function(){"use strict";var e=document.createElement("script");e.src=chrome.extension.getURL("../js/enable"),document.body.appendChild(e)}();

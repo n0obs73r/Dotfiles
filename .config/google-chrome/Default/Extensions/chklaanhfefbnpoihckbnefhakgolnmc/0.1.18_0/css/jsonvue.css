@@ -1,0 +1,113 @@
+body {
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: monospace;
+}
+
+.property {
+  font-weight: bold;
+}
+
+.type-null {
+  color: gray;
+}
+
+.type-boolean {
+  color: firebrick;
+}
+
+.type-number {
+  color: blue;
+}
+
+.type-string {
+  color: green;
+}
+
+.callback-function {
+  color: gray;
+}
+
+.collapser::after {
+  content: "-";
+}
+
+.collapsed>.collapser::after {
+  content: "+";
+}
+
+.ellipsis::after {
+  content: " … ";
+}
+
+.collapsible {
+  margin-left: 2em;
+}
+
+.collapsible .collapsible::before {
+  border-width: 0;
+  border-left: #d3d3d3 .1em dashed;
+  content: " ";
+  max-width: .1em;
+  position: absolute;
+  height: calc(100% - 3.4em);
+  left: .4em;
+  top: 1.8em;
+}
+
+.hoverable {
+  padding: .1em;
+  transition: background-color .2s ease-out 0s;
+}
+
+.hovered {
+  background-color: rgba(235, 238, 249, 1);
+  transition-delay: .2s;
+}
+
+.collapser {
+  position: absolute;
+  top: .1em;
+  left: -1.4em;
+  cursor: default;
+  user-select: none;
+  padding-right: .5em;
+  padding-left: .5em;
+}
+
+.selected {
+  outline-style: solid;
+  outline-width: .1em;
+  outline-style: dotted;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #282828;
+    color: lightgrey;
+  }
+
+  .hovered {
+    background-color: #424242;
+  }
+
+  .type-boolean {
+    color: tomato;
+  }
+
+  .type-number {
+    color: dodgerblue;
+  }
+
+  .type-string {
+    color: yellowgreen;
+  }
+
+  a {
+    color: dodgerblue;
+  }
+
+  .collapsible .collapsible::before {
+    border-color: #484848;
+  }
+}

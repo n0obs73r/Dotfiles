@@ -1,0 +1,25 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "images/128px.png",
+      "default_popup": "main.html",
+      "default_title": "Absolute Enable Right Click & Copy"
+   },
+   "description": "Force Enable Right Click & Copy",
+   "icons": {
+      "128": "images/128px.png",
+      "16": "images/16px.png",
+      "32": "images/32px.png",
+      "48": "images/48px.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVA/dYVqwXhH9CpdjP/RQr5YhwuiHy4qzJ6yc1G9bZoiDJ0QtsTXz0bg2n+KX9OB6OMM1ffIK3Br3g5IhFak0n6s4KnZ0YOESKoBZVgYnj9PhpE8fKnw1DKAeU0nDup6Ne9XmyjBua5cSezEIY5CxFJ7NQ2Wlr4RMkiEBd3Az6YmVxS1TuQvytKarzSyE1yTse/u6pnzs1rcsBUoqCwVFpTSkx/hndRmM1EcA/Ju5zNa9nQitNTQ7aJVWnhlJ7AIZQYwxlbAFz2USPKW4rGxI3zrWvdAQ1GiSpeVmnmUAUVm2v0GtE0XojpfoM1rHCEiOR0C2jQ5//aK3yY5DIMIfQIDAQAB",
+   "manifest_version": 2,
+   "name": "Absolute Enable Right Click & Copy",
+   "options_page": "pages/options.html",
+   "permissions": [ "tabs", "activeTab", "storage", "\u003Call_urls>" ],
+   "short_name": "Absolute Right Click",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.8"
+}

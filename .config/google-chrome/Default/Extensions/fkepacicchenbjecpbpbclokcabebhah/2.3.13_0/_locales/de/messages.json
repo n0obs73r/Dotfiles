@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "de"
+   },
+   "downloadButton": {
+      "message": "Laden"
+   },
+   "downloadMessage": {
+      "message": "Lade „iCloud für Windows“, um iCloud-Lesezeichen zu verwenden."
+   },
+   "enableBookmarksMessage": {
+      "message": "Aktiviere „Lesezeichen“ in „iCloud für Windows“, um iCloud-Lesezeichen mit Chrome zu verwenden."
+   },
+   "extDescription": {
+      "message": "Synchronisiere deine Chrome-Lesezeichen auf Windows mit den Safari-Lesezeichen auf deinem iPhone, iPad und Mac."
+   },
+   "extName": {
+      "message": "iCloud-Lesezeichen"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "„iCloud für Windows“ öffnen"
+   },
+   "signinMessage": {
+      "message": "Melde dich bei iCloud an, um iCloud-Lesezeichen zu verwenden."
+   },
+   "syncedMessage": {
+      "message": "Deine Chrome-Lesezeichen werden mit iCloud synchronisiert."
+   },
+   "unsupportedOS": {
+      "message": "Die Erweiterung, die du installieren möchtest, wurde für Windows entwickelt. Wenn du einen Mac verwendest, werden deine Safari-Lesezeichen automatisch mit deinem iPhone, iPad und Mac synchronisiert, wenn du dich auf all deinen Geräten bei iCloud anmeldest."
+   }
+}

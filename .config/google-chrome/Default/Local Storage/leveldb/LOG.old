@@ -1,0 +1,6 @@
+2022/08/31-18:51:47.945 3 Reusing MANIFEST /home/aryan/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/08/31-18:51:47.948 3 Recovering log #54
+2022/08/31-18:51:47.950 3 Reusing old log /home/aryan/.config/google-chrome/Default/Local Storage/leveldb/000054.log 
+2022/08/31-18:54:08.163 3 Level-0 table #59: started
+2022/08/31-18:54:08.173 3 Level-0 table #59: 25481 bytes OK
+2022/08/31-18:54:08.177 3 Delete type=0 #54

@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "ko"
+   },
+   "downloadButton": {
+      "message": "다운로드"
+   },
+   "downloadMessage": {
+      "message": "iCloud 책갈피를 사용하려면 Windows용 iCloud를 다운로드하십시오."
+   },
+   "enableBookmarksMessage": {
+      "message": "Chrome에서 iCloud 책갈피를 사용하려면 Windows용 iCloud의 책갈피를 활성화하십시오."
+   },
+   "extDescription": {
+      "message": "iPhone, iPad 및 Mac의 Safari 책갈피와 함께 Windows의 Chrome 책갈피를 최신 상태로 유지합니다."
+   },
+   "extName": {
+      "message": "iCloud 책갈피"
+   },
+   "okButton": {
+      "message": "확인"
+   },
+   "signinButton": {
+      "message": "Windows용 iCloud 열기"
+   },
+   "signinMessage": {
+      "message": "iCloud 책갈피를 사용하려면 iCloud에 로그인하십시오."
+   },
+   "syncedMessage": {
+      "message": "Chrome 책갈피가 iCloud와 동기화되었습니다."
+   },
+   "unsupportedOS": {
+      "message": "설치하려는 확장 프로그램은 Windows에서 실행되도록 설계되었습니다. Mac을 사용하는 경우 사용자의 모든 기기에서 iCloud에 로그인하면 Safari 책갈피가 자동으로 사용자의 iPhone, iPad 및 Mac과 동기화됩니다."
+   }
+}

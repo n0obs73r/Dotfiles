@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "id"
+   },
+   "downloadButton": {
+      "message": "Unduh"
+   },
+   "downloadMessage": {
+      "message": "Unduh iCloud untuk Windows untuk menggunakan Penanda iCloud."
+   },
+   "enableBookmarksMessage": {
+      "message": "Aktifkan Penanda di iCloud untuk Windows untuk menggunakan Penanda iCloud dengan Chrome."
+   },
+   "extDescription": {
+      "message": "Jaga agar penanda Chrome Anda di Windows tetap terbaru dengan penanda Safari di iPhone, iPad, dan Mac Anda."
+   },
+   "extName": {
+      "message": "Penanda iCloud"
+   },
+   "okButton": {
+      "message": "OKE"
+   },
+   "signinButton": {
+      "message": "Buka iCloud untuk Windows"
+   },
+   "signinMessage": {
+      "message": "Masuk ke iCloud untuk menggunakan Penanda iCloud."
+   },
+   "syncedMessage": {
+      "message": "Penanda Chrome Anda diselaraskan dengan iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Ekstensi yang sedang Anda coba instal dirancang untuk dijalankan di Windows. Jika Anda menggunakan Mac, penanda Safari akan diselaraskan secara otomatis dengan iPhone, iPad, dan Mac Anda saat masuk ke iCloud di semua perangkat."
+   }
+}

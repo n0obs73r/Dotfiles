@@ -1,0 +1,10 @@
+{
+   "desc": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Unblocks right click menu, highlight and copy for all pages"
+   },
+   "name": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Allow Right-Click"
+   }
+}

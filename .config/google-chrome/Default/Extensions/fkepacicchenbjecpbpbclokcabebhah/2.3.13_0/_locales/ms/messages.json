@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "ms"
+   },
+   "downloadButton": {
+      "message": "Muat Turun"
+   },
+   "downloadMessage": {
+      "message": "Muat turun iCloud untuk Windows bagi menggunakan Penanda Buku iCloud."
+   },
+   "enableBookmarksMessage": {
+      "message": "Dayakan Penanda Buku dalam iCloud untuk Windows bagi menggunakan Penanda Buku iCloud dengan Chrome."
+   },
+   "extDescription": {
+      "message": "Pastikan penanda buku Chrome anda pada Windows dikemas kini dengan penanda buku Safari pada iPhone, iPad dan Mac anda."
+   },
+   "extName": {
+      "message": "Penanda Buku iCloud"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Buka iCloud untuk Windows"
+   },
+   "signinMessage": {
+      "message": "Daftar masuk iCloud untuk guna Penanda Buku iCloud."
+   },
+   "syncedMessage": {
+      "message": "Penanda buku Chrome anda diselaraskan dengan iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Sambungan yang anda sedang cuba pasang direka bentuk untuk dijalankan pada Windows. Jika anda menggunakan Mac, penanda buku Safari anda akan diselaraskan secara automatik dengan iPhone, iPad dan Mac anda apabila anda mendaftar masuk ke iCloud pada semua peranti anda."
+   }
+}

@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "hi"
+   },
+   "downloadButton": {
+      "message": "डाउनलोड करें"
+   },
+   "downloadMessage": {
+      "message": "iCloud बुकमार्क का उपयोग करने के लिए Windows के लिए iCloud डाउनलोड करें।"
+   },
+   "enableBookmarksMessage": {
+      "message": "Chrome के साथ Windows के लिए iCloud में बुकमार्क सक्षम करें।"
+   },
+   "extDescription": {
+      "message": "Windows पर अपने Chrome बुकमार्क को अपने iPhone, iPad और Mac पर Safari बुकमार्क के साथ अप-टू-डेट रखें।"
+   },
+   "extName": {
+      "message": "iCloud बुकमार्क"
+   },
+   "okButton": {
+      "message": "ठीक"
+   },
+   "signinButton": {
+      "message": "Windows के लिए iCloud खोलें"
+   },
+   "signinMessage": {
+      "message": "iCloud बुकमार्क का उपयोग करने के लिए iCloud में साइन इन करें।"
+   },
+   "syncedMessage": {
+      "message": "आपके Chrome बुकमार्क iCloud के साथ सिंक किए जाते हैं।"
+   },
+   "unsupportedOS": {
+      "message": "आप जिस एक्सटेंशन को इंस्टॉल करने की कोशिश कर रहे हैं, उसे Windows पर चलाने के लिए डिज़ाइन किया गया है। यदि आप Mac का उपयोग कर रहे हैं, तो जब आपने अपने सभी डिवाइस पर iCloud में साइन इन किया होगा, तब आपके Safari बुकमार्क आपके iPhone, iPad और Mac पर ऑटोमैटिकली सिंक हो जाएँगे।"
+   }
+}

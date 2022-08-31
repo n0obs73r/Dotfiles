@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "ro"
+   },
+   "downloadButton": {
+      "message": "Descărcați"
+   },
+   "downloadMessage": {
+      "message": "Pentru a utiliza Favorite iCloud, descărcați iCloud pentru Windows."
+   },
+   "enableBookmarksMessage": {
+      "message": "Pentru a utiliza Favorite iCloud cu Chrome, activați opțiunea Favorite în iCloud pentru Windows."
+   },
+   "extDescription": {
+      "message": "Păstrați favoritele Chrome de pe Windows sincronizate cu favoritele Safari de pe iPhone, iPad și Mac."
+   },
+   "extName": {
+      "message": "Favorite iCloud"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Deschideți iCloud pentru Windows"
+   },
+   "signinMessage": {
+      "message": "Pentru a utiliza Favorite iCloud, autentificați-vă pe iCloud."
+   },
+   "syncedMessage": {
+      "message": "Favoritele Chrome sunt sincronizate cu iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Extensia pe care încercați să o instalați este destinată pentru a rula pe Windows. Dacă utilizați un Mac, favoritele Safari se vor sincroniza automat cu iPhone-ul, iPad-ul și Mac-ul dvs. atunci când vă autentificați pe iCloud de pe toate dispozitivele."
+   }
+}

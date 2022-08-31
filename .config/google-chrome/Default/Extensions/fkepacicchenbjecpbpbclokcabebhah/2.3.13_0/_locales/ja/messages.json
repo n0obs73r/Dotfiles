@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "ja"
+   },
+   "downloadButton": {
+      "message": "ダウンロード"
+   },
+   "downloadMessage": {
+      "message": "iCloudブックマークを使用するにはiCloud for Windowsをダウンロードしてください。"
+   },
+   "enableBookmarksMessage": {
+      "message": "iCloudブックマークをChromeで使用するにはiCloud for Windowsでブックマークを有効にしてください。"
+   },
+   "extDescription": {
+      "message": "Windows上のChromeのブックマークをiPhone、iPad、およびMac上のSafariのブックマークと同期します。"
+   },
+   "extName": {
+      "message": "iCloudブックマーク"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "iCloud for Windowsを開く"
+   },
+   "signinMessage": {
+      "message": "iCloudブックマークを使用するにはiCloudにサインインしてください。"
+   },
+   "syncedMessage": {
+      "message": "ChromeのブックマークはiCloudと同期されます。"
+   },
+   "unsupportedOS": {
+      "message": "使用しようとしている拡張機能は、Windows上で動作するように設計されています。Macを使用している場合は、iPhone、iPad、MacでiCloudにサインインしているときにSafariのブックマークがすべてのデバイスで自動的に同期されます。"
+   }
+}

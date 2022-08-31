@@ -1,0 +1,17 @@
+{
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "description": "Html is really a tree of elements, css is what defines the layout. This extension displays any page as a tree.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl0QAW+U5p+/8jOKQU8P+UGd36iPrS47fcUTo10FkaswTGHKHHOi+VkC8n3RP+H7BJy+ARQBRAu/ZGCgPAmYTPfT5ym2ktThuD+ow0IN6qglpz//3/BMub2KvY4NyPBL0nTx09SMaW4b44YBLJDwJnVajHTf5HCxQTANfC0FzuomzhP9J01fykUzCRtMpuCZyRYXdBsfsWjoSoIaSjdxt3wbR0EuQjdPXc5hML4CxxL0SiCGlMUwLrwnOSiNlg4qP8J93fQAa7vWrKyynuzrToEdpmL/VXRblPRetZaffJMBpb+Az8rWFJcQUbJmqBHSmYjL7eop8tES5VYQAg1bIMQIDAQAB",
+   "manifest_version": 2,
+   "name": "HTML Tree Generator",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

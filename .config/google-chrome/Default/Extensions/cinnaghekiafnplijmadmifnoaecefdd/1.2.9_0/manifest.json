@@ -1,0 +1,31 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "images/128px.png",
+      "default_popup": "main.html",
+      "default_title": "Unblock right click - allow copy"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "icons": {
+      "128": "images/128px.png",
+      "16": "images/16px.png",
+      "32": "images/32px.png",
+      "48": "images/48px.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApIUpvQ5M4f4oxatRJhyB+iBdcNJbHxlBXqrzEbr/KhnvDtJ1mrAmyCH4mFVVR8+rIhB9loynZEF7ZOsbSYKmpnfpqLxvhBE3iFQYWp5Wt3qT3k9hp1W8/cgjNHXmxcq0woGKHmntkSxNcksbdSu96FAnhuBfP1wgRcHXUjsqB6jKG0PhenqRJmYWJaFmz7l3F68hiQ1w7O7P+1l29PB1bKhFdojD0mV5QUNMjuMfqTX9Vzc1pZnHOdC3935GnH/pdGmM1xGr7m7gkcU3uXHESO/rs0ENCcV90i99ZWcJ16crToEKdQ51eHmVJeGZbV6rOyBYyByRK8l8Ig3JKICpowIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "pages/options.html",
+   "permissions": [ "tabs", "activeTab", "storage", "\u003Call_urls>", "webRequest", "webRequestBlocking" ],
+   "short_name": "Allow copy",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.9"
+}

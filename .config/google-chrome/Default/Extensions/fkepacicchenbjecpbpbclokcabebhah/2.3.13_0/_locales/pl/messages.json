@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "pl"
+   },
+   "downloadButton": {
+      "message": "Pobierz"
+   },
+   "downloadMessage": {
+      "message": "Aby używać zakładek iCloud, pobierz aplikację iCloud dla Windows."
+   },
+   "enableBookmarksMessage": {
+      "message": "￼Aby używać zakładek iCloud w Chrome, włącz funkcję Zakładki w iCloud dla Windows.￼"
+   },
+   "extDescription": {
+      "message": "Zakładki Chrome w systemie Windows będą zawsze zgodne z zakładkami Safari na iPhonie, iPadzie oraz Macu."
+   },
+   "extName": {
+      "message": "Zakładki iCloud"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Otwórz iCloud dla Windows"
+   },
+   "signinMessage": {
+      "message": "Aby używać zakładek iCloud, zaloguj się w iCloud."
+   },
+   "syncedMessage": {
+      "message": "Zakładki Chrome są synchronizowane z iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Rozszerzenie, które próbujesz zainstalować, zostało zaprojektowane dla systemu Windows. Jeżeli używasz Maca, zakładki Safari będą automatycznie synchronizowane z iPhone’em, iPadem i Makiem, gdy logujesz się w iCloud na tych urządzeniach."
+   }
+}

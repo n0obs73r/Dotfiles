@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "hu"
+   },
+   "downloadButton": {
+      "message": "Letöltés"
+   },
+   "downloadMessage": {
+      "message": "Töltse le az iCloud Windowshoz appot az iCloud-könyvjelzők használatához."
+   },
+   "enableBookmarksMessage": {
+      "message": "Az iCloud-könyvjelzők Chrome-mal való használatához engedélyezze a könyvjelzőket az iCloud Windowshoz appban."
+   },
+   "extDescription": {
+      "message": "Naprakészen tarthatja a Windows-os Chrome-könyvjelzőit az iPhone-ján, iPadjén és Macjén található Safari-könyvjelzőivel."
+   },
+   "extName": {
+      "message": "iCloud-könyvjelzők"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Az iCloud Windowshoz megnyitása"
+   },
+   "signinMessage": {
+      "message": "Jelentkezzen be az iCloudba az iCloud-könyvjelzők használatához."
+   },
+   "syncedMessage": {
+      "message": "A Chrome-könyvjelzői szinkronizálva vannak az iClouddal."
+   },
+   "unsupportedOS": {
+      "message": "A telepíteni próbált bővítmény a Windows rendszeren való futtatásra van tervezve. Ha Macet használ, a Safari-könyvjelzői automatikusan szinkronizálva lesznek az iPhone-jával, iPadjével és Macjével, amikor bejelentkezik az iCloudba az összes eszközén."
+   }
+}

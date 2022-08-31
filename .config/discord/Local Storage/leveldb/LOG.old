@@ -1,0 +1,5 @@
+2022/08/30-14:17:58.583 e4189 Creating DB /home/aryan/.config/discord/Local Storage/leveldb since it was missing.
+2022/08/30-14:17:58.592 e4189 Reusing MANIFEST /home/aryan/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/08/30-14:20:17.802 e4642 Level-0 table #5: started
+2022/08/30-14:20:17.817 e4642 Level-0 table #5: 1112533 bytes OK
+2022/08/30-14:20:17.821 e4642 Delete type=0 #3

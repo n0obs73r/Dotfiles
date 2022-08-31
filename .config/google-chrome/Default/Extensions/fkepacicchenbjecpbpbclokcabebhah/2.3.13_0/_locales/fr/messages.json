@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "fr"
+   },
+   "downloadButton": {
+      "message": "Télécharger"
+   },
+   "downloadMessage": {
+      "message": "Téléchargez iCloud pour Windows afin d’utiliser Signets iCloud."
+   },
+   "enableBookmarksMessage": {
+      "message": "Activez les signets dans iCloud pour Windows afin d’utiliser les signets d’iCloud avec Chrome."
+   },
+   "extDescription": {
+      "message": "Tenez vos signets Chrome sur Windows à jour grâce aux signets Safari sur votre iPhone, iPad et Mac."
+   },
+   "extName": {
+      "message": "Signets iCloud"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Ouvrir iCloud pour Windows"
+   },
+   "signinMessage": {
+      "message": "Connectez-vous à iCloud pour utiliser Signets iCloud."
+   },
+   "syncedMessage": {
+      "message": "Vos signets Chrome sont synchronisés avec iCloud."
+   },
+   "unsupportedOS": {
+      "message": "L’extension que vous essayez d’installer est conçue pour être exécutée sous Windows. Si vous utilisez un Mac, vos signets Safari seront automatiquement synchronisés avec votre iPhone, iPad et Mac lorsque vous vous connectez à iCloud sur l’ensemble de vos appareils."
+   }
+}

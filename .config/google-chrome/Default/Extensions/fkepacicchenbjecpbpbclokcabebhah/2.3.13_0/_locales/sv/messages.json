@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "sv"
+   },
+   "downloadButton": {
+      "message": "Hämta"
+   },
+   "downloadMessage": {
+      "message": "Hämta iCloud för Windows om du vill använda iCloud-bokmärken."
+   },
+   "enableBookmarksMessage": {
+      "message": "Aktivera bokmärken i iCloud för Windows för att använda iCloud-bokmärken med Chrome."
+   },
+   "extDescription": {
+      "message": "Håll dina Chrome-bokmärken i Windows uppdaterade med Safari-bokmärkena på din iPhone, iPad och Mac."
+   },
+   "extName": {
+      "message": "iCloud-bokmärken"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Öppna iCloud för Windows"
+   },
+   "signinMessage": {
+      "message": "Logga in på iCloud om du vill använda iCloud-bokmärken."
+   },
+   "syncedMessage": {
+      "message": "Dina Chrome-bokmärken synkroniseras med iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Tillägget som du försöker installera är utformat för Windows. Om du använder en Mac synkroniseras dina Safari-bokmärken automatiskt med iPhone, iPad och Mac när du loggar in på iCloud på alla dina enheter."
+   }
+}

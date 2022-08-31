@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "el"
+   },
+   "downloadButton": {
+      "message": "Λήψη"
+   },
+   "downloadMessage": {
+      "message": "Πραγματοποιήστε λήψη του iCloud για Windows για να χρησιμοποιήσετε τους Σελιδοδείκτες iCloud."
+   },
+   "enableBookmarksMessage": {
+      "message": "Ενεργοποιήστε τους Σελιδοδείκτες στο iCloud για Windows για να χρησιμοποιήσετε τους Σελιδοδείκτες iCloud με το Chrome."
+   },
+   "extDescription": {
+      "message": "Διατηρήστε ενημερωμένους τους σελιδοδείκτες σας στο Chrome στα Windows με τους σελιδοδείκτες Safari στο iPhone, το iPad και το Mac σας."
+   },
+   "extName": {
+      "message": "Σελιδοδείκτες iCloud"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Άνοιγμα iCloud για Windows"
+   },
+   "signinMessage": {
+      "message": "Συνδεθείτε στο iCloud για χρήση των Σελιδοδεικτών iCloud."
+   },
+   "syncedMessage": {
+      "message": "Οι σελιδοδείκτες σας Chrome συγχρονίζονται με το iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Η επέκταση που προσπαθείτε να εγκαταστήσετε έχει σχεδιαστεί για εκτέλεση στα Windows. Αν χρησιμοποιείτε Mac, οι σελιδοδείκτες Safari θα συγχρονιστούν αυτόματα με το iPhone, το iPad και το Mac σας όταν συνδεθείτε στο iCloud σε όλες τις συσκευές σας."
+   }
+}

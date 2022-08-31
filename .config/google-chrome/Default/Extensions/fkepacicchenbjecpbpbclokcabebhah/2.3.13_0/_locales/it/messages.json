@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "it"
+   },
+   "downloadButton": {
+      "message": "Scarica"
+   },
+   "downloadMessage": {
+      "message": "Scarica iCloud per Windows per utilizzare “Segnalibri di iCloud”."
+   },
+   "enableBookmarksMessage": {
+      "message": "Abilita Segnalibri in iCloud per Windows per utilizzare i segnalibri di iCloud con Chrome."
+   },
+   "extDescription": {
+      "message": "Mantieni i segnalibri di Chrome su Windows aggiornati con i segnalibri di Safari su iPhone, su iPad e sul Mac."
+   },
+   "extName": {
+      "message": "Segnalibri di iCloud"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Apri iCloud per Windows"
+   },
+   "signinMessage": {
+      "message": "Accedi ad iCloud per utilizzare “Segnalibri di iCloud”."
+   },
+   "syncedMessage": {
+      "message": "I segnalibri di Chrome sono sincronizzati con iCloud."
+   },
+   "unsupportedOS": {
+      "message": "L'estensione che stai tentando di installare è progettata per Windows. Se stai utilizzando un Mac, i segnalibri di Safari si sincronizzeranno automaticamente con iPhone, con iPad e con il Mac quando accedi ad iCloud su tutti i tuoi dispositivi."
+   }
+}

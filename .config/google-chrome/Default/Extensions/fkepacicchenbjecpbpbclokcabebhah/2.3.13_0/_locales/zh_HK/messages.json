@@ -1,0 +1,35 @@
+{
+  "_lang": {
+    "message": "zh_HK"
+  },
+  "downloadButton": {
+    "message": "下載"
+  },
+  "downloadMessage": {
+    "message": "下載 Windows 版 iCloud 以使用「iCloud 書籤」。"
+  },
+  "extDescription": {
+    "message": "讓 Windows 上的 Chrome 書籤與 iPhone、iPad 和 Mac 上的 Safari 書籤保持同步。"
+  },
+  "extName": {
+    "message": "iCloud 書籤"
+  },
+  "okButton": {
+    "message": "好"
+  },
+  "signinButton": {
+    "message": "開啟 Windows 版 iCloud"
+  },
+  "signinMessage": {
+    "message": "登入 iCloud 以使用「iCloud 書籤」。"
+  },
+  "syncedMessage": {
+    "message": "你的 Chrome 書籤會使用 iCloud 同步。"
+  },
+  "unsupportedOS": {
+    "message": "你嘗試安裝的延伸功能設計在 Windows 上執行。如你使用 Mac，當你在所有裝置上登入 iCloud 時，你的 Safari 書籤將自動與你的 iPhone、iPad 和 Mac 同步。"
+  },
+  "enableBookmarksMessage": {
+    "message": "在 Windows 版 iCloud 中啟用「書籤」以配搭 Chrome 使用「iCloud 書籤」。"
+  }
+}

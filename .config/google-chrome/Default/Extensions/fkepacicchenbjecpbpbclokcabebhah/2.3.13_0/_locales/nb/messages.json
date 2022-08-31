@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "nb"
+   },
+   "downloadButton": {
+      "message": "Last ned"
+   },
+   "downloadMessage": {
+      "message": "Last ned iCloud for Windows for å bruke iCloud-bokmerker."
+   },
+   "enableBookmarksMessage": {
+      "message": "Aktiver Bokmerker i iCloud for Windows for å bruke iCloud-bokmerker med Chrome."
+   },
+   "extDescription": {
+      "message": "Hold Chrome-bokmerkene dine på Windows oppdatert i forhold til Safari-bokmerkene på iPhone, iPad og Mac."
+   },
+   "extName": {
+      "message": "iCloud-bokmerker"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Åpne iCloud for Windows"
+   },
+   "signinMessage": {
+      "message": "Logg på iCloud for å bruke iCloud-bokmerker."
+   },
+   "syncedMessage": {
+      "message": "Chrome-bokmerkene dine er synkronisert med iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Tillegget du prøver å installere, er laget for bruk på Windows. Hvis du bruker en Mac, vil Safari-bokmerkene dine automatisk synkroniseres med iPhone, iPad og Mac når du logger på iCloud på enhetene dine."
+   }
+}

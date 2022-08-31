@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "zh_CN"
+   },
+   "downloadButton": {
+      "message": "下载"
+   },
+   "downloadMessage": {
+      "message": "下载 Windows 版 iCloud 以使用 iCloud 书签。"
+   },
+   "enableBookmarksMessage": {
+      "message": "在 Windows 版 iCloud 中启用“书签”以配合 Chrome 使用 iCloud 书签。"
+   },
+   "extDescription": {
+      "message": "使 Windows 上的 Chrome 书签与 iPhone、iPad 和 Mac 上的 Safari 浏览器书签保持同步。"
+   },
+   "extName": {
+      "message": "iCloud 书签"
+   },
+   "okButton": {
+      "message": "确定"
+   },
+   "signinButton": {
+      "message": "打开 Windows 版 iCloud"
+   },
+   "signinMessage": {
+      "message": "登录 iCloud 以使用 iCloud 书签。"
+   },
+   "syncedMessage": {
+      "message": "您的 Chrome 书签已与 iCloud 同步。"
+   },
+   "unsupportedOS": {
+      "message": "您尝试安装的扩展需要在 Windows 上运行。如果您使用的是 Mac，在所有设备上登录 iCloud 时，Safari 浏览器书签将自动与 iPhone、iPad 和 Mac 同步。"
+   }
+}

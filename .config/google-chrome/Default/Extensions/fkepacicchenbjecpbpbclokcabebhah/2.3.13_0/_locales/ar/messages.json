@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "ar"
+   },
+   "downloadButton": {
+      "message": "تنزيل"
+   },
+   "downloadMessage": {
+      "message": "يرجى تنزيل iCloud لـ Windows لاستخدام إشارات iCloud المرجعية."
+   },
+   "enableBookmarksMessage": {
+      "message": "يرجى تمكين الإشارات المرجعية في iCloud لـ Windows لاستخدام الإشارات المرجعية في iCloud مع Chrome."
+   },
+   "extDescription": {
+      "message": "حافظ على تحديث إشارات Chrome المرجعية على Windows مع إشارات سفاري المرجعية على iPhone و iPad و Mac."
+   },
+   "extName": {
+      "message": "إشارات iCloud المرجعية"
+   },
+   "okButton": {
+      "message": "موافق"
+   },
+   "signinButton": {
+      "message": "‫فتح iCloud لـ Windows‬"
+   },
+   "signinMessage": {
+      "message": "يرجى تسجيل الدخول إلى iCloud لاستخدام إشارات iCloud المرجعية."
+   },
+   "syncedMessage": {
+      "message": "‫تمت مزامنة إشاراتك المرجعية في Chrome مع iCloud.‬"
+   },
+   "unsupportedOS": {
+      "message": "الملحق الذي تحاول تثبيته مُصمّم للتشغيل على Windows. إذا كنت تستخدم جهاز Mac، فستتم مزامنة إشارات سفاري المرجعية تلقائيًا مع iPhone و iPad و Mac عندما تسجّل الدخول إلى iCloud على كل أجهزتك."
+   }
+}

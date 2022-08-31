@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "pt_PT"
+   },
+   "downloadButton": {
+      "message": "Descarregar"
+   },
+   "downloadMessage": {
+      "message": "Descarregue iCloud para Windows para usar Marcadores em iCloud."
+   },
+   "enableBookmarksMessage": {
+      "message": "Ative Marcadores em iCloud para Windows para usar os marcadores em iCloud com o Chrome."
+   },
+   "extDescription": {
+      "message": "Mantenha os seus marcadores do Chrome no Windows atualizados com os marcadores do Safari no seu iPhone, iPad e Mac."
+   },
+   "extName": {
+      "message": "Marcadores em iCloud"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Abrir iCloud para Windows"
+   },
+   "signinMessage": {
+      "message": "Inicie sessão em iCloud para usar Marcadores em iCloud."
+   },
+   "syncedMessage": {
+      "message": "Os seus marcadores do Chrome estão sincronizados com iCloud."
+   },
+   "unsupportedOS": {
+      "message": "A extensão que está a tentar instalar foi concebida para execução no Windows. Se estiver a usar um Mac, os seus marcadores do Safari serão sincronizados automaticamente com o seu iPhone, iPad e Mac quando iniciar sessão em iCloud em todos os seus dispositivos."
+   }
+}

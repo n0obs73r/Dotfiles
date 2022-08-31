@@ -1,0 +1,7 @@
+2022/08/31-14:10:43.146 3d2e07 Reusing MANIFEST /home/aryan/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/31-14:10:43.147 3d2e07 Recovering log #3
+2022/08/31-14:10:43.154 3d2e07 Reusing old log /home/aryan/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/08/31-14:11:26.277 103b5b Level-0 table #5: started
+2022/08/31-14:11:26.287 103b5b Level-0 table #5: 291833 bytes OK
+2022/08/31-14:11:26.292 103b5b Delete type=0 #3
+2022/08/31-14:11:26.293 103b5b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

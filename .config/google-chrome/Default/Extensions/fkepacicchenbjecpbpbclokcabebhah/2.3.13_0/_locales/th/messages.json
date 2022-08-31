@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "th"
+   },
+   "downloadButton": {
+      "message": "ดาวน์โหลด"
+   },
+   "downloadMessage": {
+      "message": "ดาวน์โหลด iCloud สำหรับ Windows เพื่อใช้ที่คั่นหน้า iCloud"
+   },
+   "enableBookmarksMessage": {
+      "message": "เปิดใช้งานที่คั่นหน้าบน iCloud สำหรับ Windows เพื่อใช้ที่คั่นหน้า iCloud กับ Chrome"
+   },
+   "extDescription": {
+      "message": "ทำให้ที่คั่นหน้า Chrome ของคุณบน Windows อัปเดตเหมือนที่คั่นหน้า Safari บน iPhone, iPad และ Mac ของคุณ"
+   },
+   "extName": {
+      "message": "ที่คั่นหน้า iCloud"
+   },
+   "okButton": {
+      "message": "ตกลง"
+   },
+   "signinButton": {
+      "message": "เปิด iCloud สำหรับ Windows"
+   },
+   "signinMessage": {
+      "message": "ลงชื่อเข้า iCloud เพื่อใช้ที่คั่นหน้า iCloud"
+   },
+   "syncedMessage": {
+      "message": "ที่คั่นหน้า Chrome ของคุณจะถูกเชื่อมข้อมูลกับ iCloud"
+   },
+   "unsupportedOS": {
+      "message": "ส่วนขยายที่คุณพยายามติดตั้งได้รับการออกแบบมาเพื่อใช้งานบน Windows ถ้าคุณกำลังใช้ Mac อยู่ ที่คั่นหน้า Safari ของคุณจะเชื่อมข้อมูลกับ iPhone, iPad และ Mac ของคุณโดยอัตโนมัติเมื่อคุณลงชื่อเข้า iCloud บนอุปกรณ์ทุกเครื่องของคุณ"
+   }
+}

@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "cs"
+   },
+   "downloadButton": {
+      "message": "Stáhnout"
+   },
+   "downloadMessage": {
+      "message": "Chcete‑li používat Záložky na iCloudu, stáhněte si iCloud pro Windows."
+   },
+   "enableBookmarksMessage": {
+      "message": "Pokud chcete s prohlížečem Chrome používat Záložky na iCloudu, zapněte v aplikaci iCloud pro Windows funkci Záložky."
+   },
+   "extDescription": {
+      "message": "Umožňuje průběžnou synchronizaci vašich záložek v Chromu pro Windows se záložkami v Safari na iPhonu, iPadu a Macu."
+   },
+   "extName": {
+      "message": "Záložky na iCloudu"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Otevřít iCloud pro Windows"
+   },
+   "signinMessage": {
+      "message": "Chcete‑li používat Záložky na iCloudu, přihlaste se k iCloudu."
+   },
+   "syncedMessage": {
+      "message": "Záložky v Chromu jsou synchronizované s iCloudem."
+   },
+   "unsupportedOS": {
+      "message": "Rozšíření, které se pokoušíte nainstalovat, je určené pro Windows. Pokud používáte Mac, vaše záložky v Safari se mezi vaším iPhonem, iPadem a Macem synchronizují automaticky, jste‑li na všech zařízeních přihlášení k iCloudu."
+   }
+}

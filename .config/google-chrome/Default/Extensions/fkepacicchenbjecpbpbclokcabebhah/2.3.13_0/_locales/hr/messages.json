@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "hr"
+   },
+   "downloadButton": {
+      "message": "Preuzmi"
+   },
+   "downloadMessage": {
+      "message": "Preuzmite iCloud za Windows za uporabu iCloud knjižnih oznaka."
+   },
+   "enableBookmarksMessage": {
+      "message": "Omogućite Knjižne oznake u iCloudu za Windows za uporabu iCloud knjižnih oznaka s preglednikom Chrome."
+   },
+   "extDescription": {
+      "message": "Održavajte svoje Chrome knjižne oznake na Windowsima ažurnima sa Safari knjižnim oznakama na iPhoneu, iPadu i Macu."
+   },
+   "extName": {
+      "message": "iCloud knjižne oznake"
+   },
+   "okButton": {
+      "message": "U redu"
+   },
+   "signinButton": {
+      "message": "Otvori iCloud za Windows"
+   },
+   "signinMessage": {
+      "message": "Prijavite se na iCloud za uporabu iCloud knjižnih oznaka."
+   },
+   "syncedMessage": {
+      "message": "Vaše Chrome knjižne oznake sinkronizirane su s iCloudom."
+   },
+   "unsupportedOS": {
+      "message": "Ekstenzija koju pokušavate instalirati dizajnirana je za rad na Windowsima. Ako koristite Mac, vaše Safari knjižne oznake automatski će se sinkronizirati s vašim iPhoneom, iPadom i Macom kad se prijavite na iCloud na svim svojim uređajima."
+   }
+}

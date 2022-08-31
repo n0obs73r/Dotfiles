@@ -1,0 +1,10 @@
+{
+   "desc": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Allow Right Click, Select, Copy and Paste in Every Site. Crack Disable Copy, Enable Copy, Enable Right Click, Enable Select."
+   },
+   "name": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Allow right click -  simple copy"
+   }
+}

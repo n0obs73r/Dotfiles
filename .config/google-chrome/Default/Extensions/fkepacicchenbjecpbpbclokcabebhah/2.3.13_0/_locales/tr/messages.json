@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "tr"
+   },
+   "downloadButton": {
+      "message": "İndir"
+   },
+   "downloadMessage": {
+      "message": "iCloud Yer İşaretleri’ni kullanmak için Windows için iCloud’u indirin."
+   },
+   "enableBookmarksMessage": {
+      "message": "iCloud Yer İşaretleri’ni Chrome ile kullanmak için Windows için iCloud’da Yer İşaretleri’ni etkinleştirin."
+   },
+   "extDescription": {
+      "message": "Windows’daki Chrome yer işaretlerinizi iPhone’unuzdaki, iPad’inizdeki ve Mac’inizdeki Safari yer işaretleriyle güncel tutun."
+   },
+   "extName": {
+      "message": "iCloud Yer İşaretleri"
+   },
+   "okButton": {
+      "message": "Tamam"
+   },
+   "signinButton": {
+      "message": "Windows için iCloud’u Aç"
+   },
+   "signinMessage": {
+      "message": "iCloud Yer İşaretleri’ni kullanmak için iCloud’a giriş yapın."
+   },
+   "syncedMessage": {
+      "message": "Chrome yer işaretleriniz iCloud ile eşzamanlı."
+   },
+   "unsupportedOS": {
+      "message": "Yüklemeye çalıştığınız genişletme Windows’da çalışacak şekilde tasarlanmış. Mac kullanıyorsanız aygıtlarınızın tümünde iCloud’a giriş yaptığınızda Safari yer işaretleriniz iPhone’unuz, iPad’iniz ve Mac’iniz ile otomatik olarak eşzamanlanır."
+   }
+}

@@ -1,0 +1,6 @@
+2022/08/31-19:18:19.403 4cc0 Reusing MANIFEST /home/aryan/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/08/31-19:18:19.403 4cc0 Recovering log #38
+2022/08/31-19:18:19.406 4cc0 Reusing old log /home/aryan/.config/google-chrome/Default/Sync Data/LevelDB/000038.log 
+2022/08/31-19:43:27.006 4f7e Level-0 table #42: started
+2022/08/31-19:43:27.011 4f7e Level-0 table #42: 167962 bytes OK
+2022/08/31-19:43:27.015 4f7e Delete type=0 #38

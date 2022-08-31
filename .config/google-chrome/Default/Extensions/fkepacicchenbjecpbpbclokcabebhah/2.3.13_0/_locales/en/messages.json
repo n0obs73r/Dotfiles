@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "en"
+   },
+   "downloadButton": {
+      "message": "Download"
+   },
+   "downloadMessage": {
+      "message": "Download iCloud for Windows to use iCloud Bookmarks."
+   },
+   "enableBookmarksMessage": {
+      "message": "Enable Bookmarks in iCloud for Windows to use iCloud Bookmarks with Chrome."
+   },
+   "extDescription": {
+      "message": "Keep your Chrome bookmarks on Windows up to date with the Safari bookmarks on your iPhone, iPad, and Mac."
+   },
+   "extName": {
+      "message": "iCloud Bookmarks"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Open iCloud for Windows"
+   },
+   "signinMessage": {
+      "message": "Sign into iCloud to use iCloud Bookmarks."
+   },
+   "syncedMessage": {
+      "message": "Your Chrome bookmarks are synced with iCloud."
+   },
+   "unsupportedOS": {
+      "message": "The extension you are trying to install is designed to run on Windows. If you are using a Mac, your Safari bookmarks will automatically sync with your iPhone, iPad, and Mac when you sign in to iCloud on all your devices."
+   }
+}

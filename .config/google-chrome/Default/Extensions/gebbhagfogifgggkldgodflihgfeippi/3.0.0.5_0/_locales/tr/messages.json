@@ -1,0 +1,62 @@
+{
+   "considerDonating": {
+      "message": "Uzantının var olmasını sağlayan tek şey bağışlarınızdır, lütfen projeyi desteklemeyi düşünün."
+   },
+   "customColors": {
+      "message": "Dislike çubuğu ve düğmeler için özel renkler"
+   },
+   "customNumberFormats": {
+      "message": "Özel sayı biçimleri"
+   },
+   "extensionDesc": {
+      "message": "Dislike'ları görebilme yeteneği verir"
+   },
+   "extensionName": {
+      "message": "YouTube Dislike Sayısını Geri Getir"
+   },
+   "extensionNameBeta": {
+      "message": "YouTube Dislike Sayısını Geri Getir Beta"
+   },
+   "legendSettings": {
+      "message": "Ayarlar"
+   },
+   "linkDonate": {
+      "message": "Bağış Yap"
+   },
+   "linkFAQ": {
+      "message": "SSS"
+   },
+   "linkHelp": {
+      "message": "Yardım"
+   },
+   "linkWebsite": {
+      "message": "Site"
+   },
+   "shortsSupport": {
+      "message": "YouTube Shorts Desteği"
+   },
+   "textDeveloper": {
+      "message": "Dmitry Selivanov ve Topluluk tarafından"
+   },
+   "textLikesDisabled": {
+      "message": "sahibi tarafından devre dışı bırakıldı"
+   },
+   "textSettings": {
+      "message": "Like/dislike gönderimini devre dışı bırak"
+   },
+   "textSettingsHover": {
+      "message": "Like'larınızı ve dislike'larınızı saymayı bırakır."
+   },
+   "textTempUnavailable": {
+      "message": "geçici olarak kullanım dışı"
+   },
+   "textUpdate": {
+      "message": "şu sürüme güncelle"
+   },
+   "version30installed": {
+      "message": "Sürüm 3.0.0.1 yüklendi"
+   },
+   "whatsnew": {
+      "message": "Yeni Ne Var"
+   }
+}

@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "sk"
+   },
+   "downloadButton": {
+      "message": "Stiahnuť"
+   },
+   "downloadMessage": {
+      "message": "Ak chcete používať iCloud Záložky, stiahnite si iCloud pre Windows."
+   },
+   "enableBookmarksMessage": {
+      "message": "Ak chcete používať iCloud Záložky s prehliadačom Chrome, povoľte funkciu Záložky v iCloude pre Windows."
+   },
+   "extDescription": {
+      "message": "Synchronizuje vaše záložky z prehliadača Chrome vo Windows so záložkami v Safari na iPhone, iPade a Macu."
+   },
+   "extName": {
+      "message": "iCloud Záložky"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Otvoriť iCloud pre Windows"
+   },
+   "signinMessage": {
+      "message": "Ak chcete používať iCloud Záložky, prihláste sa do iCloudu."
+   },
+   "syncedMessage": {
+      "message": "Vaše záložky z prehliadača Chrome sú synchronizované s iCloudom."
+   },
+   "unsupportedOS": {
+      "message": "Rozšírenie, ktoré sa pokúšate nainštalovať, bolo navrhnuté pre Windows. Ak používate Mac, vaše záložky zo Safari sa po prihlásení do iCloudu na všetkých vašich zariadeniach budú automaticky synchronizovať s vaším iPhonom, iPadom a Macom."
+   }
+}

@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "da"
+   },
+   "downloadButton": {
+      "message": "Hent"
+   },
+   "downloadMessage": {
+      "message": "Hent iCloud til Windows for at bruge iCloud-bogmærker."
+   },
+   "enableBookmarksMessage": {
+      "message": "Slå Bogmærker til i iCloud til Windows for at bruge iCloud-bogmærker i Chrome."
+   },
+   "extDescription": {
+      "message": "Hold dine Chrome-bogmærker på Windows ajour med Safari-bogmærkerne på din iPhone, iPad og Mac."
+   },
+   "extName": {
+      "message": "iCloud-bogmærker"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "signinButton": {
+      "message": "Åbn iCloud til Windows"
+   },
+   "signinMessage": {
+      "message": "Log ind på iCloud for at bruge iCloud-bogmærker."
+   },
+   "syncedMessage": {
+      "message": "Dine Chrome-bogmærker synkroniseres med iCloud."
+   },
+   "unsupportedOS": {
+      "message": "Udvidelsen, du forsøger at installere, er beregnet til Windows. Hvis du bruger en Mac, bliver dine Safari-adgangskoder automatisk synkroniseret med din iPhone, iPad og Mac, når du logger ind på iCloud på alle dine enheder."
+   }
+}

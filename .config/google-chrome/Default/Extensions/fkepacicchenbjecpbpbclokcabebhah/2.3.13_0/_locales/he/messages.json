@@ -1,0 +1,35 @@
+{
+   "_lang": {
+      "message": "he"
+   },
+   "downloadButton": {
+      "message": "הורד"
+   },
+   "downloadMessage": {
+      "message": "הורד את iCloud עבור Windows כדי להשתמש בסימניות iCloud."
+   },
+   "enableBookmarksMessage": {
+      "message": "הפעלת סימניות ב‫- iCloud עבור Windows‬ כדי להשתמש בסימניות iCloud בדפדפן Chrome."
+   },
+   "extDescription": {
+      "message": "שמור על סנכרון בין הסימניות ששמרת ב-Chrome שב-Windows לבין הסימניות שלך ב-Safari שב-iPhone, ה-iPad וה-Mac שלך."
+   },
+   "extName": {
+      "message": "סימניות iCloud"
+   },
+   "okButton": {
+      "message": "אישור"
+   },
+   "signinButton": {
+      "message": "‫פתח את iCloud עבור Windows‬"
+   },
+   "signinMessage": {
+      "message": "‫יש להתחבר ל‑iCloud כדי להשתמש בסימניות של iCloud.‬"
+   },
+   "syncedMessage": {
+      "message": "הסימניות שלך מ-Chrome מסונכרנות כעת עם iCloud."
+   },
+   "unsupportedOS": {
+      "message": "ההרחבה שאתה מנסה להתקין נועדה לפעול במערכת Windows. אם אתה משתמש ב-Mac, הסימניות שלך ב-Safari יסתנכרנו באופן אוטומטי עם ה-iPhone, ה-iPad וה-Mac שלך כאשר תתחבר ל-iCloud בכל המכשירים שברשותך."
+   }
+}

@@ -1,0 +1,28 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/icon19.png",
+         "38": "img/icon38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Responsive Web Design Tester"
+   },
+   "description": "Responsive Web Design Tester is a quick and easy way to test your responsive website.",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkzgZWDG6YWQVTq9sNZq5NLcIi1h/r0M4mBrqVKLx2WfRQ8WEbLOuzO8/a7ZoZAaFJOf8Ggcg0bZfrG2DSbRMYQuVY8hf8k677XkS4NeWy3RbJFpMXiG6K1BvK6z9tyqjVSkgxGyyy69+h8XHyVaDAqRAg0pWqr8L+isJNvr6ER52m9PHfbforJLy7FLUd+XvVjzcZJbYHVDqKO6QEl+sRatK86OLglwalcszi3dSEWlf3zy2yXxYcRU/kuOAJY3Tv7HesX3NLrOfVNe2fptOnv+UJlXQ2NNNx1cGwX6H0dgzVumdpsSe5FaWkW5bCiNuGEY8jSZk7kxJM5ExE7loMwIDAQAB",
+   "manifest_version": 2,
+   "name": "Responsive Web Design Tester",
+   "offline_enabled": true,
+   "options_page": "options.html",
+   "permissions": [ "webRequest", "webRequestBlocking", "tabs", "http://*/", "https://*/", "contextMenus" ],
+   "short_name": "RWD Tester",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}
